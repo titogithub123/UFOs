@@ -19,5 +19,11 @@ For example, if a user wanted to filter the data for all UFO sightings that took
 
 ![image](https://user-images.githubusercontent.com/93171738/164945205-407b2c0b-2b8a-4bb0-9ef9-3bddb0aa6e8b.png)
 
-vvv
+After our search was complete we would simply remove the items from the search bars, hit enter and our filtered data table would return to the original dimensions. 
+
+## Summary
+
+As a result of builiding this dyanmic website we learned some valuable lessons that can help us moving forward in our data science journey. One thing we did percive as a drawback to this particualr build that we may be able to incorporate into subsequent websites would be a "clear all" button to make getting back to the original data table a little easier.
+
+Anytime we can remvove friction for our end users to use the tools we build and compltete their relevent search inquiries, we are helping them enjoy a smooth experience that will keep them coming back for more. 
 
