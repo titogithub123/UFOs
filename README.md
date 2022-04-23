@@ -13,4 +13,11 @@ As can be seen from the image below, we were able to successfully create an inno
 
 ![image](https://user-images.githubusercontent.com/93171738/164944973-ead5f46c-c56d-4788-a0e9-8af804d528e2.png)
 
-fff
+From here all we would need to do is input the criteria of interest into the search bars on the left hand side of the page to filter our data and return to our users only the data that fits their inquiry. 
+
+For example, if a user wanted to filter the data for all UFO sightings that took place in the state of Florida and were a shpere in shape, they would simply input that request into the appropriate search fields and the website would retrieve and return that specific data. You can see this process in action in the screen shot below. 
+
+![image](https://user-images.githubusercontent.com/93171738/164945205-407b2c0b-2b8a-4bb0-9ef9-3bddb0aa6e8b.png)
+
+vvv
+
