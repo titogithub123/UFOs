@@ -27,3 +27,6 @@ As a result of builiding this dyanmic website we learned some valuable lessons t
 
 Anytime we can remvove friction for our end users to use the tools we build and compltete their relevent search inquiries, we are helping them enjoy a smooth experience that will keep them coming back for more. 
 
+In addition, one other search criteria field we could have added to the options was one for duration. As there are different duration lengths, some folks might have found it intriguing to be able to sort the data by how long the distinct duration for the sightings actually were. 
+
+Lastly, another recommendation I would suggest for futher development of this website would be to add images of some of the vessels people say they have seen in the sky to give researchers a better of understanding of exaclty what it is folks are seeing in the nighttime sky. 
